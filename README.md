@@ -1,6 +1,6 @@
--  Hi, I’m @scotty1257
--  I’m currently a Mechanical Engineering student at Auburn University
--  I’m currently learning C++, MATLAB, Python, and Javascript
+## Hi, I’m Scotty
+-  I’m currently a Software Engineer 
+-  Favorite Languages are (in order) C++, TypeScript, Python, Rust, Julia, and JavaScript
 
 
 <!---
