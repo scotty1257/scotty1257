@@ -2,7 +2,7 @@
 -  I’m currently a Software Engineer with 2 years of professional experience
 -  Favorite Languages are (in order) C++, TypeScript, Python, Rust, Julia, and JavaScript
 -  I really enjoy system level development in C++, as well as TypeScript
--  Front-end :point_left: and Back-end :point_right:
+-  Front-end :star: and Back-end :triangular_ruler:
 
 
 <!---
